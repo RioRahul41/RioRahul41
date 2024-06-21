@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Rahul M</h1>
 <h3 align="center">Pushing a B. Tech Artificial Intelligence and Data Science</h3>
+
 - 👋 Hi, I’m Rahul M
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning B.Tech AI & Data Science
