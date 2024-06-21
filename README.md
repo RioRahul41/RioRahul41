@@ -9,7 +9,7 @@
 - 📫 How to reach me **kit.25.21bad041@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have become too lazy to write a blog post these days
-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramesh230801&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ramesh230801" /></p>
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RioRahul41&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RioRahul41" /></p>
 
 ## 📊 GitHub Stats:
 
