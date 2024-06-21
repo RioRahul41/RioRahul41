@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RioRahul41
+- 👋 Hi, I’m Rahul M
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning B.Tech AI & Data Science
 - 💞️ I’m looking to collaborate on any Data Science research project
