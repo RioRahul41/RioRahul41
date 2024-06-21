@@ -1,9 +1,11 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Rahul M</h1>
+<h3 align="center">Pushing a B. Tech Artificial Intelligence and Data Science</h3>
 - 👋 Hi, I’m Rahul M
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning B.Tech AI & Data Science
 - 💞️ I’m looking to collaborate on any Data Science research project
-- 👨‍💻 All of my projects are available at [[www.github.com/Ramesh230801](https://github.com/RioRahul41))
-- 📫 How to reach me **kit.25.21bad0412gmail.com**
+- 👨‍💻 All of my projects are available at [[www.github.com/RioRahul41](https://github.com/RioRahul41))
+- 📫 How to reach me **kit.25.21bad041@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have become too lazy to write a blog post these days
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramesh230801&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ramesh230801" /></p>
